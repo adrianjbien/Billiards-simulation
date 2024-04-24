@@ -1,0 +1,16 @@
+C:\Users\adria\source\repos\Bilard\Logika\bin\Debug\net8.0\Logika.deps.json
+C:\Users\adria\source\repos\Bilard\Logika\bin\Debug\net8.0\Logika.dll
+C:\Users\adria\source\repos\Bilard\Logika\bin\Debug\net8.0\Logika.pdb
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.AssemblyInfo.cs
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.sourcelink.json
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.dll
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\refint\Logika.dll
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.pdb
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\ref\Logika.dll
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\Bilard\Logika\bin\Debug\net8.0\Dane.dll
+C:\Users\adria\source\repos\Bilard\Logika\bin\Debug\net8.0\Dane.pdb
+C:\Users\adria\source\repos\Bilard\Logika\obj\Debug\net8.0\Logika.csproj.Up2Date

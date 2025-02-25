@@ -2,10 +2,10 @@
 This project is a billiards simulation developed in C#, featuring concurrent processing to enhance performance and realism. The simulation models billiard ball interactions, trajectories, and dynamics in a virtual environment.
 
 ## Overview
-The simulation accurately represents the physics of billiards, using multithreading and concurrency to efficiently compute collisions, friction, and movement. This approach ensures smooth performance, even when multiple balls are in motion simultaneously.
+The simulation accurately represents the physics of billiards, using multithreading and concurrency to efficiently compute collisions and movement. This approach ensures smooth performance, even when multiple balls are in motion simultaneously.
 
 ## Features
-Physics Modeling: Accurate simulation of ball movement, collisions, and friction.
+Physics Modeling: Accurate simulation of ball movement and collisions.
 
 Concurrent Processing: Utilizes multithreading to handle multiple moving balls efficiently.
 
